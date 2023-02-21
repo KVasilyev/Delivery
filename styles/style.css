@@ -637,12 +637,12 @@
   height: 424px;
 }
 
-.contacts_decoration-left {
+.contacts__decoration-left {
   bottom: 0;
   left: -80px;
 }
 
-.contacts_decoration-right {
+.contacts__decoration-right {
   bottom: 0;
   right: -80px;
 }
@@ -689,13 +689,13 @@
   font-size: 16px;
   line-height: 24px;
 }
-.footer_author-link {
+.footer__author-link {
   text-decoration: none;
   font-weight: 600;
   color:#000000;
   transition: .3s;
 }
-.footer_author-link:hover {
+.footer__author-link:hover {
   color: #FE5626;
   transition: .3s;
 }
