@@ -637,12 +637,12 @@
   height: 424px;
 }
 
-.contacts__decoration-left {
+.contacts__decoration_position_left {
   bottom: 0;
   left: -80px;
 }
 
-.contacts__decoration-right {
+.contacts__decoration_position_right {
   bottom: 0;
   right: -80px;
 }
