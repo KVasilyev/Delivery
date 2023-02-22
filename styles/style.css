@@ -635,15 +635,14 @@
   position: absolute;
   width: 600px;
   height: 424px;
+  bottom: 0;
 }
 
-.contacts__decoration_position_left {
-  bottom: 0;
+.contacts__decoration_position_left { 
   left: -80px;
 }
 
 .contacts__decoration_position_right {
-  bottom: 0;
   right: -80px;
 }
 
